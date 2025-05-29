@@ -35,6 +35,7 @@ In the age of AI-powered development, the right prompt can be the difference bet
 - **[Documentation Specialist](./Documentation_Specialist.md)** - Technical writing, API docs, and knowledge management
 - **[Technical Mentor](./Technical_Mentor.md)** - Guidance, best practices, and team development
 - **[Strategy Specialist](./Strategy_Specialist.md)** - Product strategy, roadmapping, and business alignment
+- **[Role Prompt Creator](./Role_Prompt_Creator.md)** - Meta-specialist for designing and crafting effective role prompts
 
 ## 🚀 How to Use
 
