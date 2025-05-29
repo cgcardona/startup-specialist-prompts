@@ -120,6 +120,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ### 🧠 **Meta-Cognitive** (1 specialist)
 - [Role Prompt Creator](./specialized/Role_Prompt_Creator.md) - Meta-specialist for designing effective role prompts
+- [Codex Task Engineer](./specialized/Codex_Task_Engineer.md) - Meta-specialist for designing effective codex prompts
 
 ### 💼 **Business Operations** (16 specialists)
 - [Startup Legal Advisor](./specialized/Startup_Legal_Advisor.md) - Corporate structure, equity, contracts
