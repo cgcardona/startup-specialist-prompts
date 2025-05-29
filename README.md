@@ -16,9 +16,9 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ## 📊 Current Arsenal
 
-**Deployment Status**: **86/116 specialists** deployed across 11 functional domains
+**Deployment Status**: **91/116 specialists** deployed across 11 functional domains
 
-### 🔧 **Technical Excellence** (20 specialists)
+### 🔧 **Technical Excellence** (25 specialists)
 - [Swift Developer](./technical/Swift_Developer.md) - Elite macOS craftsperson
 - [Python Developer](./technical/Python_Developer.md) - AI/ML systems engineer with Apple Silicon optimization
 - [Full Stack Swift Python Developer](./technical/Full_Stack_Swift_Python_Developer.md) - Full-stack AI application architect
@@ -39,6 +39,11 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 - [Java Developer](./technical/Java_Developer.md) - Enterprise applications, Android development, large-scale systems
 - [Linux Systems Engineer](./technical/Linux_Systems_Engineer.md) - Server administration, kernel optimization, open-source infrastructure
 - [Windows Systems Engineer](./technical/Windows_Systems_Engineer.md) - Active Directory, Azure integration, .NET ecosystem
+- [macOS Platform Engineer](./technical/MacOS_Platform_Engineer.md) - Apple ecosystem expertise, macOS internals, enterprise deployment
+- [iOS Platform Engineer](./technical/iOS_Platform_Engineer.md) - Swift/Objective-C, Core frameworks, app optimization
+- [Android Platform Engineer](./technical/Android_Platform_Engineer.md) - Kotlin/Java, Android SDK, device compatibility
+- [visionOS Developer](./technical/VisionOS_Developer.md) - Spatial computing applications, AR/VR development
+- [watchOS Developer](./technical/WatchOS_Developer.md) - Wearable app development, health and fitness integration
 
 ### 📱 **Product & Strategy** (8 specialists)
 - [Product Strategy Visionary](./product-strategy/Product_Strategy_Visionary.md) - Long-term product vision and market positioning
@@ -136,7 +141,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 **Enterprise-grade business infrastructure specialists** - 15 specialists deployed
 - Legal & Compliance, Finance & Operations, Marketing & Community
 
-### Phase 3: Advanced Specialization (30 specialists)
+### Phase 3: Advanced Specialization (25 specialists)
 **Target**: Emerging technologies and culture specialists
 - Next-gen tech, People & Culture, Advanced Analytics
 
@@ -172,7 +177,7 @@ Each specialist features:
 
 ## 📈 Performance Metrics
 
-- **86/116 specialists** deployed (74.1% complete)
+- **91/116 specialists** deployed (78.4% complete)
 - **11 functional domains** covered
 - **100% cognitive architecture** compliance
 - **Phase 1 complete**: Core technical infrastructure ready ✅
