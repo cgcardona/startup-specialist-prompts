@@ -25,29 +25,43 @@ In the age of AI-powered development, the right prompt can be the difference bet
 - **[User Experience Strategist](./User_Experience_Strategist.md)** - User journey optimization and behavioral design
 - **[Growth Product Manager](./Growth_Product_Manager.md)** - Viral mechanics and retention optimization
 - **[Strategy Specialist](./Strategy_Specialist.md)** - Executive strategy architect
+- **[Business Model Architect](./Business_Model_Architect.md)** - Revenue model optimization and pricing strategy
 
 ### 🏗️ Architecture & Infrastructure
 - **[System Architect](./System_Architect.md)** - System architecture visionary for scalable design
 - **[DevOps Specialist](./DevOps_Specialist.md)** - Platform reliability engineer
 - **[Infrastructure Specialist](./Infrastructure_Specialist.md)** - Infrastructure strategy architect
+- **[Database Architect](./Database_Architect.md)** - Data modeling and performance optimization
+- **[API Design Specialist](./API_Design_Specialist.md)** - RESTful/GraphQL APIs and developer experience
+- **[Frontend Performance Engineer](./Frontend_Performance_Engineer.md)** - Web performance optimization and Core Web Vitals
 
 ### ⛓️ Blockchain & Web3 Specialists
 - **[Tokenomics Specialist](./Tokenomics_Specialist.md)** - Blockchain economics strategist
 - **[Smart Contract Architect](./Smart_Contract_Architect.md)** - Secure smart contract development
+- **[DeFi Protocol Designer](./DeFi_Protocol_Designer.md)** - Tokenomics and liquidity mechanism design
 
 ### 🤖 AI & Machine Learning
 - **[AI Product Designer](./AI_Product_Designer.md)** - Human-AI interaction and UX design
+- **[Computer Vision Engineer](./Computer_Vision_Engineer.md)** - Image/video processing and visual AI systems
 
-### 🔍 Quality & Research
-- **[QA Review Specialist](./QA_Review_Specialist.md)** - Quality assurance guardian
-- **[Technical Research Specialist](./Technical_Research_Specialist.md)** - Technical intelligence investigator
-- **[Market Research Specialist](./Market_Research_Specialist.md)** - Market intelligence strategist
-- **[Competitive Intelligence Analyst](./Competitive_Intelligence_Analyst.md)** - Competitive strategy and market analysis
-- **[Maestro Code Review Specialist](./Maestro_Code_Review_Specialist.md)** - Specialized code review for Maestro AI orchestrator
-
-### 📚 Knowledge & Mentorship
+### 🎨 Creative & Content
+- **[Creative Director](./Creative_Director.md)** - Brand vision and creative strategy leadership
 - **[Documentation Specialist](./Documentation_Specialist.md)** - Documentation experience architect
 - **[Technical Mentor](./Technical_Mentor.md)** - Technical growth catalyst
+
+### 📈 Growth & Analytics
+- **[Growth Hacker](./Growth_Hacker.md)** - Viral mechanics and exponential growth optimization
+- **[Data Scientist](./Data_Scientist.md)** - Predictive analytics and machine learning insights
+- **[Competitive Intelligence Analyst](./Competitive_Intelligence_Analyst.md)** - Competitive strategy and market analysis
+- **[Market Research Specialist](./Market_Research_Specialist.md)** - Market intelligence strategist
+
+### 🛡️ Security & Quality
+- **[Cybersecurity Specialist](./Cybersecurity_Specialist.md)** - Security architecture and threat protection
+- **[QA Review Specialist](./QA_Review_Specialist.md)** - Quality assurance guardian
+- **[Technical Research Specialist](./Technical_Research_Specialist.md)** - Technical intelligence investigator
+- **[Maestro Code Review Specialist](./Maestro_Code_Review_Specialist.md)** - Specialized code review for Maestro AI orchestrator
+
+### 📚 Knowledge & Development
 - **[Role Prompt Creator](./Role_Prompt_Creator.md)** - Meta-specialist for designing effective role prompts
 
 ## 📋 Complete Specialist Roadmap
@@ -87,17 +101,23 @@ cat Product_Strategy_Visionary.md | pbcopy
 
 ## 🎯 Specialist Categories
 
-### Technical Excellence (8 specialists)
+### Technical Excellence (13 specialists)
 Core development, architecture, and infrastructure roles
 
-### Product & Strategy (7 specialists)  
+### Product & Strategy (8 specialists)  
 Product management, strategy, and user experience leadership
 
-### Blockchain & AI (3 specialists)
+### Blockchain & AI (5 specialists)
 Cutting-edge technology specialists for Web3 and AI integration
 
-### Quality & Research (5 specialists)
-Quality assurance, research, and competitive intelligence
+### Creative & Content (3 specialists)
+Creative direction, documentation, and knowledge sharing
+
+### Growth & Analytics (4 specialists)
+Growth optimization, data science, and market intelligence
+
+### Security & Quality (4 specialists)
+Security, quality assurance, and technical research
 
 ### Knowledge & Growth (3 specialists)
 Documentation, mentorship, and meta-cognitive design
