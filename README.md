@@ -1,4 +1,4 @@
-# 🚀 Ultimate Startup Specialist Role Prompt Collection
+# 🚀 Startup Specialist Role Prompt Collection
 
 *A comprehensive cognitive architecture system for advanced role-based interactions - 117 specialized roles for startup acceleration*
 
