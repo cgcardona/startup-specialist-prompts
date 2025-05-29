@@ -1,6 +1,6 @@
 # 🚀 Ultimate Startup Specialist Role Prompt Collection
 
-*A comprehensive cognitive architecture system for advanced role-based interactions - 116 specialized roles for startup acceleration*
+*A comprehensive cognitive architecture system for advanced role-based interactions - 117 specialized roles for startup acceleration*
 
 This repository contains meticulously crafted role prompts designed for modern startups across all industries. Each specialist embodies a complete cognitive architecture with professional persona, methodological frameworks, and domain expertise optimized for startup environments and rapid growth scenarios.
 
@@ -16,7 +16,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ## 📊 Current Arsenal
 
-**Deployment Status**: **116/116 specialists** deployed across 11 functional domains
+**Deployment Status**: **117/117 specialists** deployed across 11 functional domains
 
 ### 🔧 **Technical Excellence** (25 specialists)
 - [Swift Developer](./technical/Swift_Developer.md) - Elite macOS craftsperson
@@ -72,7 +72,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 - [MLOps Engineer](./ai-ml/MLOps_Engineer.md) - Model deployment, monitoring, automated retraining
 - [AI Safety Researcher](./ai-ml/AI_Safety_Researcher.md) - Bias detection, ethical AI, safety protocols
 
-### 🎨 **Creative & Content** (11 specialists)
+### 🎨 **Creative & Content** (12 specialists)
 - [Creative Director](./creative-content/Creative_Director.md) - Brand vision, creative strategy, artistic direction
 - [Brand Identity Designer](./creative-content/Brand_Identity_Designer.md) - Logo, visual systems, brand guidelines
 - [UI/UX Designer](./creative-content/UI_UX_Designer.md) - Interface design, interaction patterns, design systems
@@ -84,6 +84,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 - [Video Producer](./creative-content/Video_Producer.md) - Product demos, marketing videos, educational content
 - [Community Content Manager](./creative-content/Community_Content_Manager.md) - Social media, community engagement, user-generated content
 - [SEO Content Specialist](./creative-content/SEO_Content_Specialist.md) - Organic growth, keyword strategy, content optimization
+- [Social Media Specialist](./creative-content/Social_Media_Specialist.md) - Strategic social media management, content creation, campaign execution
 
 ### 📈 **Growth & Analytics** (16 specialists)
 - [Growth Hacker](./growth-analytics/Growth_Hacker.md) - Viral mechanics, referral systems, growth loops
@@ -188,7 +189,7 @@ Each specialist features:
 
 ## 📈 Performance Metrics
 
-- **116/116 specialists** deployed (100.0% complete)
+- **117/117 specialists** deployed (100.0% complete)
 - **11 functional domains** covered
 - **100% cognitive architecture** compliance
 - **Phase 1 complete**: Core technical infrastructure ready ✅
