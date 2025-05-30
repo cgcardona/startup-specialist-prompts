@@ -16,11 +16,12 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ## 📊 Current Arsenal
 
-**Deployment Status**: **118/118 specialists** deployed across 11 functional domains
+**Deployment Status**: **119/119 specialists** deployed across 11 functional domains
 
-### 🔧 **Technical Excellence** (25 specialists)
+### 🔧 **Technical Excellence** (26 specialists)
 - [Swift Developer](./technical/Swift_Developer.md) - Elite macOS craftsperson
-- [Python Developer](./technical/Python_Developer.md) - AI/ML systems engineer with Apple Silicon optimization
+- [Python Developer](./technical/Python_Developer.md) - Backend systems and web development specialist
+- [Python ML/AI Developer](./technical/Python_ML_AI_Developer.md) - AI/ML systems engineer with Apple Silicon optimization
 - [Full Stack Swift Python Developer](./technical/Full_Stack_Swift_Python_Developer.md) - Full-stack AI application architect
 - [System Architect](./technical/System_Architect.md) - System architecture visionary
 - [Technical Research Specialist](./technical/Technical_Research_Specialist.md) - Technical intelligence investigator
@@ -191,7 +192,7 @@ Each specialist features:
 
 ## 📈 Performance Metrics
 
-- **118/118 specialists** deployed (100.0% complete)
+- **119/119 specialists** deployed (100.0% complete)
 - **11 functional domains** covered
 - **100% cognitive architecture** compliance
 - **Phase 1 complete**: Core technical infrastructure ready ✅
