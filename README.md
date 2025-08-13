@@ -16,9 +16,9 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ## 📊 Current Arsenal
 
-**Deployment Status**: **119/119 specialists** deployed across 11 functional domains
+**Deployment Status**: **120/120 specialists** deployed across 11 functional domains
 
-### 🔧 **Technical Excellence** (26 specialists)
+### 🔧 **Technical Excellence** (27 specialists)
 - [Swift Developer](./technical/Swift_Developer.md) - Elite macOS craftsperson
 - [Python Developer](./technical/Python_Developer.md) - Backend systems and web development specialist
 - [Python ML/AI Developer](./technical/Python_ML_AI_Developer.md) - AI/ML systems engineer with Apple Silicon optimization
@@ -44,6 +44,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 - [iOS Platform Engineer](./technical/iOS_Platform_Engineer.md) - Swift/Objective-C, Core frameworks, app optimization
 - [Android Platform Engineer](./technical/Android_Platform_Engineer.md) - Kotlin/Java, Android SDK, device compatibility
 - [visionOS Developer](./technical/VisionOS_Developer.md) - Spatial computing applications, AR/VR development
+- [RealityKit Developer](./technical/RealityKit_Developer.md) - Spatial computing and AR experience specialist
 - [watchOS Developer](./technical/WatchOS_Developer.md) - Wearable app development, health and fitness integration
 
 ### 📱 **Product & Strategy** (8 specialists)
@@ -192,7 +193,7 @@ Each specialist features:
 
 ## 📈 Performance Metrics
 
-- **119/119 specialists** deployed (100.0% complete)
+- **120/120 specialists** deployed (100.0% complete)
 - **11 functional domains** covered
 - **100% cognitive architecture** compliance
 - **Phase 1 complete**: Core technical infrastructure ready ✅
