@@ -1,6 +1,5 @@
 # 🚀 Startup Specialist Role Prompt Collection
 
-*A comprehensive cognitive architecture system for advanced role-based interactions - 128 specialized roles for startup acceleration*
 
 This repository contains meticulously crafted role prompts designed for modern startups across all industries. Each specialist embodies a complete cognitive architecture with professional persona, methodological frameworks, and domain expertise optimized for startup environments and rapid growth scenarios.
 
@@ -16,7 +15,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ## 📊 Current Arsenal
 
-**Deployment Status**: **128/128 specialists** deployed across 11 functional domains
+**Deployment Status**: **130/130 specialists** deployed across 11 functional domains
 
 ### 🔧 **Technical Excellence** (31 specialists)
 - [Swift Developer](./technical/Swift_Developer.md) - Elite macOS craftsperson
@@ -147,8 +146,10 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 - [Accounting Specialist](./specialized/Accounting_Specialist.md) - Financial reporting, tax optimization, bookkeeping
 - [Vendor Management Specialist](./specialized/Vendor_Management_Specialist.md) - Supplier relations, contract negotiation
 
-### 🌐 **Specialized Emerging** (14 specialists)
+### 🌐 **Specialized Emerging** (16 specialists)
 - [Role Prompt Creator](./specialized/Role_Prompt_Creator.md) - Meta-specialist for designing effective role prompts
+- [Texas Hold'em Master Instructor](./specialized/Texas_Holdem_Master_Instructor.md) - Poker sage and strategic virtuoso for comprehensive poker education
+- [Web Tessellation Architect](./specialized/Web_Tessellation_Architect.md) - Mathematical web graphics and interactive tessellation specialist
 - [Web3 Community Builder](./specialized/Web3_Community_Builder.md) - DAO governance, token-gated communities
 - [Sustainability Advisor](./specialized/Sustainability_Advisor.md) - Carbon footprint, ESG compliance, green technology
 - [AI Ethics Consultant](./specialized/AI_Ethics_Consultant.md) - Responsible AI development, bias mitigation
@@ -197,7 +198,7 @@ Each specialist features:
 
 ## 📈 Performance Metrics
 
-- **128/128 specialists** deployed (100.0% complete)
+- **130/130 specialists** deployed (100.0% complete)
 - **11 functional domains** covered
 - **100% cognitive architecture** compliance
 - **Phase 1 complete**: Core technical infrastructure ready ✅
