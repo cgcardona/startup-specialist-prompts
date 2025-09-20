@@ -148,7 +148,7 @@ These aren't simple task lists—they're **cognitive architectures** that embody
 
 ### 🌐 **Specialized Emerging** (16 specialists)
 - [Role Prompt Creator](./specialized/Role_Prompt_Creator.md) - Meta-specialist for designing effective role prompts
-- [Texas Hold'em Master Instructor](./specialized/Texas_Holdem_Master_Instructor.md) - Poker sage and strategic virtuoso for comprehensive poker education
+- [Texas Hold'em Master Instructor](./specialized/Texas_Holdem_Master_Instructor.md) - Poker sage and strategic expert for comprehensive poker education
 - [Web Tessellation Architect](./specialized/Web_Tessellation_Architect.md) - Mathematical web graphics and interactive tessellation specialist
 - [Web3 Community Builder](./specialized/Web3_Community_Builder.md) - DAO governance, token-gated communities
 - [Sustainability Advisor](./specialized/Sustainability_Advisor.md) - Carbon footprint, ESG compliance, green technology
